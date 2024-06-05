@@ -1,0 +1,6 @@
+Set systemProp.http.proxyHost=www-proxy.idc.oracle.com
+
+Set systemProp.http.proxyPort=80
+Set systemProp.https.proxyHost=www-proxy.idc.oracle.com
+
+Set systemProp.https.proxyPort=80
