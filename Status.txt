@@ -1,0 +1,6 @@
+Appium - android
+create a basic program and upload to GIT
+
+ios - installation 
+create a basic program and uplaod to GIT
+
